@@ -1,6 +1,6 @@
 #include 'iostream'
 int main()
 {
-	ggggkkkk
+	ggggkkkkttt
 	return 0;
 }
